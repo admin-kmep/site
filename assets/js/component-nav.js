@@ -58,7 +58,7 @@ class Header extends HTMLElement {
                                             +91 91766 70447
                                           </dd>
                                           <dt>Email</dt>
-                                          <dd><a href="mailto:info@kmep.co.in">info@kmep.co.in</a></dd>
+                                          <dd><a href="mailto:rajesh@kmep.co.in">rajesh@kmep.co.in</a></dd>
                                       </dl>
                                   </div>
                                   <div class="col-4 col-12-small">
