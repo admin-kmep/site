@@ -8,7 +8,7 @@ class Header extends HTMLElement {
                   <div class="inner">
 
                       <!-- Logo -->
-                          <h1><a href="index.html" id="logo"><img src="images/logo.png" alt="K-MEP"></a></h1>
+                          <h1><a href="index.html" id="logo"><img src="images/logo.png" alt="KMEP"></a></h1>
 
                       <!-- Nav -->
                           <nav id="nav">
